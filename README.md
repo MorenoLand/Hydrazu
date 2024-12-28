@@ -21,14 +21,10 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 > I use this with games I dumped from my own Nintendo Switch.
 
 <p align="center">
-    <!-- <a href="https://dev.azure.com/yuzu-emu/yuzu/">
+    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
         <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
             alt="Azure Mainline CI Build Status">
-    </a> -->
-    <a href="https://discord.com/invite/u77vRWY">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
+    </a> 
 </p>
 
 <p align="center">
