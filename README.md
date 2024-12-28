@@ -17,25 +17,20 @@ It is written in C++ with portability in mind.
 </h4>
 
 > [!NOTE]
-> This is an unofficial mirror fork of the original repository for the sake of archiving hundreds of hours of hard work of all the members contributing code, in no way will I provide assistance in compiling and do not condone pirating.
-> I use this with games I dumped from my own Nintendo Switch, as should you.
-> Nintendo does not legally own any of the code in this project, despite what their legal team thinks it was created without any of the original source code from the Nintendo Switch and was the result of hundreds of peoples hard work to emulate the switch. (**Keep this in mind Github legal team when you go to strike this again**)
+> This repository is an unofficial mirror of the original project, created solely for archival purposes. It preserves the valuable contributions of numerous developers who invested countless hours in this endeavor.
 
-<p align="center">
-  <a href="#download">Download</a> |
-  <a href="#support">Support</a> |
-  <a href="#license">License</a>
-</p>
+## **Disclaimer**
 
+**Important Notes:**
+
+* **No Support Provided:** This mirror does not offer any assistance with compilation or usage.
+* **Legal Considerations:**
+    * This repository is intended for use with game files legally obtained by the user (e.g., dumped from their own Nintendo Switch).
+    * The code within this project is community created and does not utilize any original Nintendo Switch source code. (_Keep this in mind github/nintendo legal when you petition the removal of this code.)_
 
 ## Download
 
 You can download the latest releases automatically via the installer on our [downloads](https://web.archive.org/web/20240304063132/https://yuzu-emu.org/downloads/) page.
-
-
-## Support
-
-No support avaiable.
 
 ## License
 
