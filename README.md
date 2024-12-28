@@ -18,14 +18,8 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 > [!NOTE]
 > This is an unofficial mirror fork of the original repository for the sake of archiving hundreds of hours of hard work of all the members contributing code, in no way will I provide assistance in compiling and do not condone pirating.
-> I use this with games I dumped from my own Nintendo Switch.
-
-<p align="center">
-    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
-        <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
-            alt="Azure Mainline CI Build Status">
-    </a> 
-</p>
+> I use this with games I dumped from my own Nintendo Switch, as should you.
+> Nintendo does not legally own any of the code in this project, despite what their legal team thinks it was created without any of the original source code from the Nintendo Switch and was the result of hundreds of peoples hard work to emulate the switch. (**Keep this in mind Github legal team when you go to strike this again**)
 
 <p align="center">
   <a href="#download">Download</a> |
